@@ -11,3 +11,4 @@ MicroMemo is Fully Java-built Microphone Recorder App made and Polished after Mi
 | Can Record/Stop Sample | Can Record, Stop, Listen, Delete Recorded Sample|
 | Has Malfunctioning Sample format adjustment | Has Format Adjustment removed|
 | Has Runnable JAR File | Has Both Runnable JAR and EXE file|
+| Can't record second time after stopping sample | Can Stop/Listen/Delete as much as needed|
