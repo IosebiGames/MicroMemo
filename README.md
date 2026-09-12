@@ -3,6 +3,8 @@ MicroMemo is Fully Java-built Microphone Recorder App made and Polished after Mi
 ## To understand the difference between two of those, Let's see this graph:<\br>
 
 
-| Old | New |
+| MicrophoneRecorder | MicroMemo |
 | :--- | :--- |
-| ❌ window isn't good | ✅ window is good |
+| Standard Swing UI | FlatLaf's Light Laf|
+| Has No Icon | Has Icon|
+
