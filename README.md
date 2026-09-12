@@ -6,5 +6,6 @@ MicroMemo is Fully Java-built Microphone Recorder App made and Polished after Mi
 | MicrophoneRecorder | MicroMemo |
 | :--- | :--- |
 | Standard Swing UI | FlatLaf's Light Laf|
-| Has No Icon | Has Icon|
+| Has No window Icon | Has Window Icon|
+| Doesn't run on Java 8 | Supports Java 8!|
 
