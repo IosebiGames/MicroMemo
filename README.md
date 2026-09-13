@@ -3,8 +3,8 @@ MicroMemo is Fully Java-built Microphone Recorder App made and Polished after Mi
 **Record, Listen, Delete your Microphone WAV Sample from just one click.**</br> 
 <img width="523" height="235" alt="image" src="https://github.com/IosebiGames/MicroMemo/blob/main/src/com/java/IosebiGames/image.png?raw=true" /> </br>
 ## To understand the difference between two of those, Let's see this graph:</br>
-
-
+<img width="522" height="236" alt="image" src="https://github.com/IosebiGames/MicroMemo/blob/main/src/com/java/IosebiGames/MicrophoneRecorder.png?raw=true" /> </br>
+      How The old Microphone Recorder app looks like.</br>
 | MicrophoneRecorder | MicroMemo |
 | :--- | :--- |
 | Standard Swing UI | Modern Look & Feel from FlatLaf|
