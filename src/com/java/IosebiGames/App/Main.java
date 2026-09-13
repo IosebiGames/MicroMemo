@@ -22,6 +22,13 @@ public class Main {
       public void actionPerformed(ActionEvent e) {
          counter++;
          timeField.setText("        " + counter + " seconds");
+         if(counter == 60) {
+        	 timeField.setBackground(Color.green);
+         }else if(counter == 120) {
+        	 timeField.setBackground(Color.orange);
+         }else if(counter == 300) {
+        	 timeField.setBackground(Color.blue);
+         }
       }
    });
    public Main() {
