@@ -15,4 +15,4 @@ MicroMemo is Fully Java-built Microphone Recorder App made and Polished after Mi
 | Has Runnable JAR File | Has Both Runnable JAR and EXE file|
 | Can't record second time after stopping sample | Can Stop/Listen/Delete as much as needed|
 | Runs on EventQueue Swing Thread | Runs on EDT Swing Thread|
-| Seconds area looks faded out and unreadable| Readable and consistent area for tracking seconds|
+| Seconds area looks faded out and unreadable| consistent area for tracking seconds that gets colorful background based on duration|
